@@ -1,3 +1,3 @@
 # todo-app
 First Project
-Developer- Jyoti Raikwar
+-Developer- Jyoti Raikwar
